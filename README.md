@@ -1,2 +1,2 @@
-#
-
+Aspiring to build intelligent, real-world systems at the intersection of electronics and computing, I am driven by a strong interest in embedded systems, robotics, and hardware-software integration. I aim to work on impactful problems involving automation, sensing, and scalable system design, while continuously pushing my technical and problem-solving limits. I’m seeking opportunities where I can contribute, learn fast, and grow into an engineer capable of designing efficient, reliable, and innovative systems.
+****
