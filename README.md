@@ -1,2 +1,35 @@
-Aspiring to build intelligent, real-world systems at the intersection of electronics and computing, I am driven by a strong interest in embedded systems, robotics, and hardware-software integration. I aim to work on impactful problems involving automation, sensing, and scalable system design, while continuously pushing my technical and problem-solving limits. I’m seeking opportunities where I can contribute, learn fast, and grow into an engineer capable of designing efficient, reliable, and innovative systems.
-****
+Shreyas S Kulkarni
+
+Electronics & Communication Engineering
+IIIT Bangalore
+
+Research Interests
+• Embedded Systems
+• Computer Architecture
+• FPGA / ASIC Design
+• VLSI
+• AI Accelerators
+• Robotics
+
+Current Research
+MLB Quantization for Low-Power DNN Accelerators
+
+Featured Projects
+⭐ MLB-MAC
+⭐ BrailleTrack
+⭐ Fire Fighting Robot
+
+Technical Skills
+Languages
+Hardware
+EDA Tools
+Protocols
+
+Publications
+IEEE BHI 2026 (Co-author)
+
+Currently Learning
+SystemVerilog
+RISC-V
+OpenROAD
+Physical Design
